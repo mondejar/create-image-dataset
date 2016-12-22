@@ -1,12 +1,12 @@
 # create_dataset
 
-This program is intended to create image training datasets for machine and deep learnings aplications.
+This program is intended to create image training datasets for machine and deep learnings applications.
 
 Description
 -----------
 
-Given the input and output directory this code generates X random transforms 
-for each image of the input directory. The patch size used is fixed to the same as the images at input directory.
+Given the input and output directory this code generates X random transformations for each image of the input directory. 
+The patch size used is fixed to the same as the images at input directory.
 
 This code requires OpenCV!
 
