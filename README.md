@@ -6,4 +6,19 @@ The patch size used is fixed to the same as the images at input directory.
 
 This code requires OpenCV
 
-Example of use: ./create_dataset path_input path_out X
+
+Compile
+-------
+```
+mkdir build
+cd build
+cmake ..
+make
+```
+
+
+How to use
+----------
+```
+./create_dataset path_input path_out X
+```
