@@ -15,7 +15,7 @@ Example
 
 In this case we want to train a convolutional neural network (CNN) for keypoint matching task.
 Given the patches at input dir this code generate the following "random" transformations for them. 
-(https://raw.github.com/mondejar/create_dataset/master/sample.png Sample of transformations generated)
+![Sample of transformations generated](https://raw.github.com/mondejar/create_dataset/master/sample.png "Sample of transformations generated")
 
 
 Compile
